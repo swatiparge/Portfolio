@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Swati-Portfolio/static/css/main.eb5e43f5.css",
+    "main.js": "/Swati-Portfolio/static/js/main.ca294ff5.js",
+    "static/js/787.d9564919.chunk.js": "/Swati-Portfolio/static/js/787.d9564919.chunk.js",
+    "static/media/banner-img.png": "/Swati-Portfolio/static/media/banner-img.7b8a7e9d506dca027aae.png",
+    "static/media/masterverk.jpg": "/Swati-Portfolio/static/media/masterverk.fe4acf1f036635691fb9.jpg",
+    "static/media/dhruvaspace.jpeg": "/Swati-Portfolio/static/media/dhruvaspace.fa802fc704b7fe2c72b2.jpeg",
+    "static/media/compport.jpeg": "/Swati-Portfolio/static/media/compport.ec6ff7f8bc8665f896a6.jpeg",
+    "static/media/Pen.png": "/Swati-Portfolio/static/media/Pen.5936b2bcfefec2099404.png",
+    "static/media/raasta-mb.jpg": "/Swati-Portfolio/static/media/raasta-mb.4c249572612fd0d9c201.jpg",
+    "static/media/marut-mb.jpg": "/Swati-Portfolio/static/media/marut-mb.fecb70de06bd882ecbaa.jpg",
+    "static/media/Swati-Parge.pdf": "/Swati-Portfolio/static/media/Swati-Parge.255b8b02ffbeb7085795.pdf",
+    "static/media/quote.svg": "/Swati-Portfolio/static/media/quote.2698bf1edc6d1e26efa36a68bb7f2e5f.svg",
+    "static/media/dhruvaspace-client.png": "/Swati-Portfolio/static/media/dhruvaspace-client.def03d9bd401805bf302.png",
+    "static/media/naren.jpeg": "/Swati-Portfolio/static/media/naren.6d2ac8c8ebebf71ed58f.jpeg",
+    "static/media/compport-client.png": "/Swati-Portfolio/static/media/compport-client.2cbd4ac24a8c4a340d23.png",
+    "static/media/senem.jpeg": "/Swati-Portfolio/static/media/senem.8916d6854f123aa4e52d.jpeg",
+    "static/media/swati-logo.svg": "/Swati-Portfolio/static/media/swati-logo.7b89b0fd707d7bf015f6934ab0124c78.svg",
+    "static/media/autonomy-logo.svg": "/Swati-Portfolio/static/media/autonomy-logo.fc0028fea7312bd6286c97496a6d884e.svg",
+    "index.html": "/Swati-Portfolio/index.html",
+    "static/media/send.svg": "/Swati-Portfolio/static/media/send.40edbcee89a6b62c496c6ec376fc87b7.svg",
+    "static/media/square-check.svg": "/Swati-Portfolio/static/media/square-check.871de5ff5c3ca44cdd8c152fb8d65cd7.svg",
+    "static/media/download.svg": "/Swati-Portfolio/static/media/download.e3d8d1e968a7c0dd0b336614d1ee8200.svg",
+    "static/media/work-border.svg": "/Swati-Portfolio/static/media/work-border.129bc0ab7900a11e55fdc431d017120e.svg",
+    "static/media/portfolio-border.svg": "/Swati-Portfolio/static/media/portfolio-border.ac6c7dd350bc89057f2a8d187acdea7c.svg",
+    "main.eb5e43f5.css.map": "/Swati-Portfolio/static/css/main.eb5e43f5.css.map",
+    "main.ca294ff5.js.map": "/Swati-Portfolio/static/js/main.ca294ff5.js.map",
+    "787.d9564919.chunk.js.map": "/Swati-Portfolio/static/js/787.d9564919.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb5e43f5.css",
+    "static/js/main.ca294ff5.js"
+  ]
+}
